@@ -1,0 +1,2 @@
+- Colors are based on **white** (`#FFFFFF`) and **dark slate gray** (`#2F4F4F`);
+- Shapes are designed to keep up with other modern icons.
